@@ -1,0 +1,57 @@
+/*
+//1- Desenvolva no Portugal um algoritmo capaz de imprimir na tela “Hello World”
+programa 
+{ 
+	funcao inicio () 
+	{
+		escreva("Hello WOrld!\n")
+	} 
+}
+*/
+/*
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//2- Desenvolva no Portugal um algoritmo que seja capaz de receber um valor de X pela função Leia e calcular o valor e imprimir na tela o valor de Y para a função de segundo grau: y = x**2 + x*2 + 16 
+programa
+{
+	inclua biblioteca Matematica --> mat
+	
+	funcao inicio() 
+	{
+		real x, y
+		
+		escreva("Digite o valor de X: ") 
+		leia(x)
+
+		y = mat.potencia(x, 2)*x*2+16
+		
+		escreva("\nResposta: ", y, "\n")
+
+	}
+}
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+*/
+/*
+
+//3- Desenvolva um algoritmo que receba (usando a função leia) 2 números e retorne o resto da divisão desses dois números na tela. //
+programa
+{
+	inclua biblioteca Matematica --> mat
+	
+	funcao inicio() 
+	{
+		real x, y
+		
+		escreva("Digite o valor de X: ") 
+		leia(x)
+
+		y = mat.potencia(x, 2)*x*2+16
+		
+		escreva("\nResposta: ", y, "\n")
+
+	}
+}
+*/
+
+
+
